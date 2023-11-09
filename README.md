@@ -2,7 +2,7 @@
 
 ![Iris Types](image.png)
 
-Dataset:
+## Dataset:
 Attribute Information:
 - sepal length in cm
 - sepal width in cm
@@ -14,7 +14,7 @@ We use above attributes in dataset to classify data into either
 - Iris-Versicolour
 - Iris-Virginica
 
-Notebook:
+## Notebook:
 - Import libraries (sklearn (iris dataset), svm model)
 - Split dataset (30% for testing)
 - Check Petal length and width correlation
